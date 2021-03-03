@@ -1,5 +1,6 @@
 {
   "name": "microsoft-authentication-libraries-for-js",
+  "version": "3.0.0",
   "private": true,
   "devDependencies": {
     "@babel/core": "^7.7.2",
